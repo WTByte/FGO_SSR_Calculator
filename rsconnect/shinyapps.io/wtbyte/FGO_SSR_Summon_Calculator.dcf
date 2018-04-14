@@ -1,0 +1,12 @@
+name: FGO_SSR_Summon_Calculator
+title: FGO_SSR_Summon_Calculator
+username:
+account: wtbyte
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 322078
+bundleId: 1318362
+url: https://wtbyte.shinyapps.io/FGO_SSR_Summon_Calculator/
+when: 1523702198.215
+asMultiple: FALSE
+asStatic: FALSE
